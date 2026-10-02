@@ -1,4 +1,4 @@
-PS C:\Users\ASUS\Desktop\mcino-Introduction-to-Git-and-GitHub> curl.exe -s https://api.github.com/repos/DarkLight01/mcino-Introduction-to-Git-and-GitHub
+ curl.exe -s https://api.github.com/repos/DarkLight01/mcino-Introduction-to-Git-and-GitHub
 {
   "id": 1401606152,
   "node_id": "R_kgDOU4rQCA",
@@ -67,8 +67,8 @@ PS C:\Users\ASUS\Desktop\mcino-Introduction-to-Git-and-GitHub> curl.exe -s https
   "releases_url": "https://api.github.com/repos/DarkLight01/mcino-Introduction-to-Git-and-GitHub/releases{/id}",
   "deployments_url": "https://api.github.com/repos/DarkLight01/mcino-Introduction-to-Git-and-GitHub/deployments",
   "created_at": "2026-10-02T11:47:27Z",
-  "updated_at": "2026-10-02T12:14:05Z",
-  "pushed_at": "2026-10-02T12:26:28Z",
+  "updated_at": "2026-10-02T12:53:08Z",
+  "pushed_at": "2026-10-02T12:53:01Z",
   "git_url": "git://github.com/DarkLight01/mcino-Introduction-to-Git-and-GitHub.git",
   "ssh_url": "git@github.com:DarkLight01/mcino-Introduction-to-Git-and-GitHub.git",
   "clone_url": "https://github.com/DarkLight01/mcino-Introduction-to-Git-and-GitHub.git",
@@ -195,7 +195,7 @@ PS C:\Users\ASUS\Desktop\mcino-Introduction-to-Git-and-GitHub> curl.exe -s https
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": false,
-    "forks_count": 10490,
+    "forks_count": 10489,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -216,7 +216,7 @@ PS C:\Users\ASUS\Desktop\mcino-Introduction-to-Git-and-GitHub> curl.exe -s https
 
     ],
     "visibility": "public",
-    "forks": 10490,
+    "forks": 10489,
     "open_issues": 47,
     "watchers": 20,
     "default_branch": "main"
@@ -306,7 +306,7 @@ PS C:\Users\ASUS\Desktop\mcino-Introduction-to-Git-and-GitHub> curl.exe -s https
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": false,
-    "forks_count": 10490,
+    "forks_count": 10489,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -327,11 +327,10 @@ PS C:\Users\ASUS\Desktop\mcino-Introduction-to-Git-and-GitHub> curl.exe -s https
 
     ],
     "visibility": "public",
-    "forks": 10490,
+    "forks": 10489,
     "open_issues": 47,
     "watchers": 20,
     "default_branch": "main"
   },
-  "network_count": 10490,
+  "network_count": 10489,
   "subscribers_count": 0
-}
