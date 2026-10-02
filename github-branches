@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bug-fix-typo",
+    "commit": {
+      "sha": "c045e45a98457762ead3ec1904dc1fda542c7fc7",
+      "url": "https://api.github.com/repos/DarkLight01/mcino-Introduction-to-Git-and-GitHub/commits/c045e45a98457762ead3ec1904dc1fda542c7fc7"
+    },
+    "protected": false
+  },
+  {
+    "name": "main",
+    "commit": {
+      "sha": "aa808ac73a85a3b2c8b2bd65e39381a1f35bd215",
+      "url": "https://api.github.com/repos/DarkLight01/mcino-Introduction-to-Git-and-GitHub/commits/aa808ac73a85a3b2c8b2bd65e39381a1f35bd215"
+    },
+    "protected": false
+  }
+]
